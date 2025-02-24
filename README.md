@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHhi6jRNKzzlg/profile-displaybackgroundimage-shrink_350_1400/B4DZUvAeSWG8Ag-/0/1740250409292?e=1745452800&v=beta&t=sCC3PzY9ku2Vp2wdhJbDWhn4Q65Bj0BZbnK0mK1GKHY">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGNhlX4Xq4aSA/profile-displaybackgroundimage-shrink_350_1400/B4DZUvB51wHwAY-/0/1740250784715?e=1746057600&v=beta&t=VZ_iMtusUi3TKkdHc9VQ-urCbEWFmiSc_oigsuCMU0g">
 <h1 align="center">Hi 👋, I'm Mostafa Kamal</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
